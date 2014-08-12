@@ -2,11 +2,11 @@ This repo contains prebuilt toolchains for andorid
 
 
 Current toolchains:
-[1] arm-eabi-4.4.3
-    GCC 4.4.3 toolchain from CyanogenMod repo
+[1] arm-cortex_a15-linux-gnueabihf-linaro
+    GCC Linaro 4.7.4 Christopher Optimized toolchain for Cortex A15 Chips
 
-[2] arm-eabi-linaro-4.6.2
-    GCC Linaro 4.6.2 (2011.10) toolchain
+[2] arm-cortex_a8-linux-gnueabi-linaro
+    GCC Linaro 4.7.4 Christopher Optimized toolchain for Cortex A8 Chips
 
 [3] arm-linux-androideabi-4.7
     GCC 4.7 from Google repo
