@@ -1,4 +1,4 @@
-This repo contains prebuilt toolchains for andorid
+This repo contains prebuilt toolchains for Android
 
 
 Current toolchains:
@@ -8,6 +8,6 @@ Current toolchains:
 [2] arm-cortex_a8-linux-gnueabi-linaro
     GCC Linaro 4.7.4 Christopher Optimized toolchain for Cortex A8 Chips
 
-[3] arm-linux-androideabi-4.7
+[3] arm-linux-androideabi
     GCC 4.7 from Google repo
 
