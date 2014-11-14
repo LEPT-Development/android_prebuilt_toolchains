@@ -11,3 +11,11 @@ Current toolchains:
 [3] arm-linux-androideabi
     GCC 4.7 from Google repo
 
+[4] arm-eabi-4.4.3
+    GCC 4.4.3 
+
+[5] arm-eabi-4.6
+    GCC 4.6 
+
+[6] arm-eabi-linaro-4.6.2
+    GCC 4.6.2
